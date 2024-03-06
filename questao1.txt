@@ -1,0 +1,14 @@
+k = 0 + 1 = 1; soma = 0 + 1 = 1
+k = 2; soma = 3
+k = 3; soma = 6
+k = 4; soma = 10
+k = 5; soma = 15
+k = 6; soma = 21
+k = 7; soma = 28
+k = 8; soma = 36
+k = 9; soma = 45
+k = 10; soma = 55
+k = 11; soma = 66
+k = 12; soma = 78
+k = 13; soma = 91
+resultado -> soma = 91
